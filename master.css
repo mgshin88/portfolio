@@ -288,7 +288,7 @@ h3 {
 
 #page02, #page04{
   margin: auto;
-  margin-top: 20px;
+  padding-top: 20px;
 }
 
 .iframe-cover{
