@@ -1,6 +1,10 @@
 @charset "UTF-8";
-@import url('http://fonts.googleapis.com/earlyaccess/hanna.css');
+/* @import url('http://fonts.googleapis.com/earlyaccess/hanna.css'); */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@font-face {
+  font-family: 'hanna';
+  src: url(fonts/alphabetized-cassette-tapes/hanna.ttf);
+}
 @font-face {
  font-family: 'alphabetized-cassette-tapes';
   src: url(fonts/alphabetized-cassette-tapes/alphabetized-cassette-tapes.ttf);
