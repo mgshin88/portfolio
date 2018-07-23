@@ -190,31 +190,37 @@ h4 {
 .btns button:nth-child(1) {
   margin-top: 200px;
   margin-left: 50px;
+  background: none;
 }
 
 .btns button:nth-child(2) {
   margin-top: 150px;
   margin-left: 150px;
+  background: none;
 }
 
 .btns button:nth-child(3) {
   margin-top: 130px;
   margin-left: 300px;
+  background: none;
 }
 
 .btns button:nth-child(4) {
   margin-top: 200px;
   margin-left: 500px;
+  background: none;
 }
 
 .btns button:nth-child(5) {
   margin-top: 50px;
   margin-left: 400px;
+  background: none;
 }
 
 .btns button:nth-child(6) {
   margin-top: 50px;
   margin-left: 150px;
+  background: none;
 }
 
 #section3 #header {
